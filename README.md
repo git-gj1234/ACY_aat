@@ -1,7 +1,8 @@
 <h1>ACY Assigment</h1>
 Submitted by:
-Adithya G Jayanth
+Adithya G Jayanth<br>
 1BM21AI008
+<br>
 <br>
 Implements:<br>
 <ol>
