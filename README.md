@@ -5,7 +5,7 @@ Adithya G Jayanth
 <br>
 Implements:<br>
 <ol>
-1. SMOTE
-2. Random Forest Classifier
-3. XGBoost
+1. SMOTE <br>
+2. Random Forest Classifier<br>
+3. XGBoost<br>
 </ol>
